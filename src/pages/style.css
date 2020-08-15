@@ -1,0 +1,60 @@
+.center {
+    text-align: center;
+}
+
+.h1 {
+    display:flex;
+    justify-content:center;
+}
+
+h1 {
+    font-size: 100px;
+    margin:2rem;
+    background-color: lightgray;
+    opacity:70%;
+    width:86%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-bottom:0.8rem;
+}
+#portfolio {
+    font-size: 80px;
+    width:94%;
+}
+
+.background {
+    background-color: lightgray;
+    opacity:80%;
+    width:86%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:2rem;
+    padding-bottom:2rem;
+}
+
+.img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:79%;
+    padding-bottom:2rem;
+    opacity: 100%;
+}
+
+.about {
+    padding-top:3rem;
+}
+
+.width {
+    width:70%;
+}
+
+.cards {
+    display:flex;
+    flex-wrap:wrap;
+    padding-right:auto;
+    padding-left:auto;
+    margin-left:auto;
+    margin-right:2rem;
+    justify-content:center;
+}
