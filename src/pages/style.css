@@ -5,26 +5,37 @@
 .h1 {
     display:flex;
     justify-content:center;
+    margin-top:2rem;
+}
+
+.about{
+    margin-bottom:1rem;
 }
 
 h1 {
     font-size: 100px;
+    display:flex;
+    justify-content:center;
     margin:2rem;
     background-color: lightgray;
-    opacity:70%;
-    width:86%;
+    opacity:0.8;
+    /* width:86%; */
     margin-left:auto;
     margin-right:auto;
     padding-bottom:0.8rem;
+    padding-left:1rem;
+    padding-right:1rem;
 }
 #portfolio {
     font-size: 80px;
-    width:94%;
+    width:100%;
+    padding-left:2rem;
+    padding-right:2rem;
 }
 
 .background {
     background-color: lightgray;
-    opacity:80%;
+    opacity:0.85;
     width:86%;
     margin-left:auto;
     margin-right:auto;
@@ -38,7 +49,8 @@ h1 {
     margin-right:auto;
     width:79%;
     padding-bottom:2rem;
-    opacity: 100%;
+    margin-bottom:0.5rem;
+    /* opacity: 100%; */
 }
 
 .about {
@@ -55,6 +67,6 @@ h1 {
     padding-right:auto;
     padding-left:auto;
     margin-left:auto;
-    margin-right:2rem;
+    /* margin-right:2rem; */
     justify-content:center;
 }

@@ -1,0 +1,25 @@
+.aboutTitle {
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    font-size: 100px;
+    margin:2rem;
+    background-color:lightgray;
+    opacity: 70%;
+}
+
+.img {
+    height:340px;
+    width:340px;
+}
+
+.images {
+    display:flex;
+    justify-content:space-between;
+    justify-content:center;
+}
+
+.bg {
+    display:flex;
+    justify-content:center;
+}

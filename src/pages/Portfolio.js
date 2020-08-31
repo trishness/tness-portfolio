@@ -13,9 +13,9 @@ const Portfolio = () => {
         </div>
             </div>
         </div>
-        <div className="container-fluid cards center">
+        <div className="container-fluid cards center justify-content-center">
             <div className="row">
-                <div className="col-md-12 sm-12 cards center">
+                <div className="col-md-12 sm-12 cards center justify-content-center">
                     <Projects className="cards center"></Projects>
                 </div>
             </div>
